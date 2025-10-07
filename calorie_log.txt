@@ -1,0 +1,8 @@
+Daily Calorie Tracker Log
+rice - 400.0 calories
+cake - 700.0 calories
+cookies - 500.0 calories
+burger - 300.0 calories
+pizza - 406.0 calories
+Total: 2306.0
+Average: 461.2
